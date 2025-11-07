@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\EventHubProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|d:\\visual studio projects\\eventhubprocessor\\eventhubprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|solutionrelative:eventhubprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|d:\\visual studio projects\\eventhubprocessor\\eventhubprocessor\\simulatortriggerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|solutionrelative:eventhubprocessor\\simulatortriggerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|d:\\visual studio projects\\eventhubprocessor\\eventhubprocessor\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|solutionrelative:eventhubprocessor\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|d:\\visual studio projects\\eventhubprocessor\\eventhubprocessor\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|solutionrelative:eventhubprocessor\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|d:\\visual studio projects\\eventhubprocessor\\eventhubprocessor\\eventhubprocessorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BE3A4-427C-4713-AF5B-5354F89C8491}|EventHubProcessor\\EventHubProcessor.csproj|solutionrelative:eventhubprocessor\\eventhubprocessorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\local.settings.json",
+              "RelativeDocumentMoniker": "EventHubProcessor\\local.settings.json",
+              "ToolTip": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\local.settings.json",
+              "RelativeToolTip": "EventHubProcessor\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T11:21:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "host.json",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\host.json",
+              "RelativeDocumentMoniker": "EventHubProcessor\\host.json",
+              "ToolTip": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\host.json",
+              "RelativeToolTip": "EventHubProcessor\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T11:20:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulatorTriggerFunction.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\SimulatorTriggerFunction.cs",
+              "RelativeDocumentMoniker": "EventHubProcessor\\SimulatorTriggerFunction.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\SimulatorTriggerFunction.cs",
+              "RelativeToolTip": "EventHubProcessor\\SimulatorTriggerFunction.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:18:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "EventHubProcessor\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\Program.cs",
+              "RelativeToolTip": "EventHubProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:18:42.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventHubProcessorFunction.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\EventHubProcessorFunction.cs",
+              "RelativeDocumentMoniker": "EventHubProcessor\\EventHubProcessorFunction.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\EventHubProcessor\\EventHubProcessor\\EventHubProcessorFunction.cs",
+              "RelativeToolTip": "EventHubProcessor\\EventHubProcessorFunction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:10:46.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
