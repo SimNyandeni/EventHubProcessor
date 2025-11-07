@@ -17,7 +17,13 @@ public class Program
     {
         var host = new HostBuilder()
             .ConfigureFunctionsWebApplication()
-            .ConfigureServices(services => { services.AddOptions<Settings>().Configure<IConfiguration>((settings, configuration) => { configuration.GetSection("Values").Bind(settings); }); })
+            .ConfigureServices(services =>
+            {
+                services.AddOptions<Settings>().Configure<IConfiguration>((settings, configuration) =>
+                {
+                    configuration.GetSection("Values").Bind(settings);
+                });
+            })
             .Build();
         host.Run();
     }
