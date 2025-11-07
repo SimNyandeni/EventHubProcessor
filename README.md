@@ -87,18 +87,3 @@ Here's how the project addresses each of the specified requirements:
     );
     ```
 
-## Running and Testing
-
-1.  **Run Locally:**
-    - Navigate to the `EventHubProcessor/EventHubProcessor` directory in terminal.
-    - Run `func start` to start the local Functions host.
-
-2.  **Simulate Load:**
-    - Use a tool like `curl` or web browser to send a POST or GET request to the `SimulatorTriggerFunction` endpoint provided by the Functions host.
-    - To generate 5,000 events, use the URL: `http://localhost:7071/api/SimulatorTriggerFunction?count=5000`
-
-3.  **Monitor in Azure:**
-    - Once deployed to Azure, open the Application Insights resource associated with Function App.
-    - Use the **Live Metrics** view to see real-time telemetry as you run the simulation.
-    - Observe the **Performance** and **Failures** blades to analyze execution time, throughput, and any errors.
-    - In the Function App's **Monitor** section, you can see the invocation logs and observe how the app scales out based on the load.
